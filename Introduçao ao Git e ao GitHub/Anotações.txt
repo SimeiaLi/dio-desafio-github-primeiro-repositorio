@@ -1,0 +1,18 @@
+GIT:
+CLI ( Command Line Interface)
+
+COMANDOS BÁSICOS:
+
+WINDOWNS
+
+-cd 
+- dir
+-mkdir
+del/ rmdir
+
+UNIX (Linux, apple)
+
+-cd
+-ls
+-mkdir
+-rm - rf
